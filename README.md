@@ -1,4 +1,4 @@
-# Introduction-to-Computer-Programming
+# Introduction to Computer Programming
 
 The "Introduction to Computer Programming Assessment" is a comprehensive evaluation designed to assess your proficiency in fundamental programming concepts using the Python programming language. The assessment covers a wide range of topics, ensuring a well-rounded understanding and practical application of programming principles. Here's a breakdown of the key aspects of this assessment:
 
